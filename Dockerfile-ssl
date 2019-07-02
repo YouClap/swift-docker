@@ -1,0 +1,8 @@
+FROM swift:5.0.1
+LABEL maintainer "YouClap <development@youclap.tech>"
+
+ENV SWIFT_VERSION="5.0.1"
+
+RUN apt-get update && \
+    apt-get install -y openssl && \
+    apt-get clean
