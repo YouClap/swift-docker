@@ -18,7 +18,7 @@ Allows you to run an executable that requires `SSL`.
 
 # How can i use those images? 🚧
 
-They are public in the docker container registry, so if you searcb for `swift-ssl` you will find it.
+They are public in the docker container registry, so if you search for `swift-ssl` you will find it.
 You can also see them in our [docker hub organization page](https://cloud.docker.com/u/youclap)
 
 They use the swift version as the tag for the image.
